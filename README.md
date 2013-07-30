@@ -51,14 +51,17 @@ Biz 1(2-6)
 The biz template is special it sets up a biz with the following added extras setup.
 This requires a SSL 
 
-Store
---Products
-----Store
-----Payment Gatways
---Contact
-----Address
-----Phone
---Policies
-----Privacy
-----Shipping
-----Returns
+# Store
+* Products
+* Store
+* Payment Gatways
+
+# Contact
+* Address
+* Phone
+
+# Policies
+* Privacy
+* Shipping
+* Returns
+
