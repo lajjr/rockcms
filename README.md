@@ -48,7 +48,7 @@ The biz1 follows a template but with options red follows red template. Also if y
 Biz 1(2-6)
 ======
 
-The biz template is special it sets up a biz with the following added extras setup.
+The biz template is special it sets up a Business with the following added extras setup.
 This requires a SSL 
 
 # Store
