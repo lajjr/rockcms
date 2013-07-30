@@ -8,11 +8,12 @@ During the download the script gets all the need files and installs automaticall
 
 The script will be like this.
 
-script create config -defaults domain.cfg
+<code>script create config -defaults domain.cfg</code>
 
 (-defaults can be blue, red, crossover, bootstrap, biz1, biz2, ecomm1 etc.)
 
-eg: script config biz1 mydomain.cfg (This will make a site based on biz1)
+eg: 
+<code>script config biz1 mydomain.cfg</code> (This will make a site based on biz1)
 
 Defaults adds a default template and make everything work.
 
@@ -40,7 +41,7 @@ Forums Module for forums, and follows theme in setup.
 
 eg:
 
-script create biz1 crmmod forummod --red 
+<code>script create biz1 crmmod forummod --red </code>
 
 The biz1 follows a template but with options red follows red template. Also if you pick blue same.
 
