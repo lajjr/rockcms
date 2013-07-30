@@ -1,5 +1,5 @@
 <a href='http://www.pledgie.com/campaigns/21192'><img alt='Click here to lend your support to: Rock CMS and make a donation at www.pledgie.com !' src='http://www.pledgie.com/campaigns/21192.png?skin_name=chrome' border='0' /></a>
-========
+
 Rock CMS
 ========
 
@@ -24,7 +24,7 @@ It asks questions on the database, domain, and admin information.
 
 creates the configuration file and downloads all files frameworks templates needed.
 
-==========
+
 CRM Module
 ==========
 Customer Relations Management
@@ -32,7 +32,7 @@ Customer Relations Management
 Will be an added feature to add CRM 
 
 
-=============
+
 Forums Module
 =============
 
@@ -44,9 +44,9 @@ script create biz1 crmmod forummod --red
 
 The biz1 follows a template but with options red follows red template. Also if you pick blue same.
 
-======
+
 Biz 1(2-6)
-======
+==========
 
 The biz template is special it sets up a Business with the following added extras setup.
 This requires a SSL 
