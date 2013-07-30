@@ -27,3 +27,38 @@ creates the configuration file and downloads all files frameworks templates need
 ==========
 CRM Module
 ==========
+Customer Relations Management
+
+Will be an added feature to add CRM 
+
+
+=============
+Forums Module
+=============
+
+Forums Module for forums, and follows theme in setup.
+
+eg:
+
+script create biz1 crmmod forummod --red 
+
+The biz1 follows a template but with options red follows red template. Also if you pick blue same.
+
+======
+Biz 1(2-6)
+======
+
+The biz template is special it sets up a biz with the following added extras setup.
+This requires a SSL 
+
+Store
+--Products
+----Store
+----Payment Gatways
+--Contact
+----Address
+----Phone
+--Policies
+----Privacy
+----Shipping
+----Returns
