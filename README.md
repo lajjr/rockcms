@@ -3,7 +3,8 @@
 Rock CMS CRM
 ========
 
-Rock CMS will be a new type of Content Management System. You download a script and use the script to get the program. 
+Rock CMS CRM will be a new type of Content Management System and Customer Relationship Manager. 
+You download a script and use the script to get the program. 
 During the download the script gets all the need files and installs automatically.
 
 The script will be like this.
