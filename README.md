@@ -1,6 +1,6 @@
 <a href='http://www.pledgie.com/campaigns/21192'><img alt='Click here to lend your support to: Rock CMS and make a donation at www.pledgie.com !' src='http://www.pledgie.com/campaigns/21192.png?skin_name=chrome' border='0' /></a>
 
-Rock CMS
+Rock CMS CRM
 ========
 
 Rock CMS will be a new type of Content Management System. You download a script and use the script to get the program. 
