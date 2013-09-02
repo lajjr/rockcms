@@ -9,12 +9,12 @@ During the download the script gets all the need files and installs automaticall
 
 The script will be like this.
 
-<code>script create config -defaults domain.cfg</code>
+<code>rockstart create config -defaults domain.cfg</code>
 
 (-defaults can be blue, red, crossover, bootstrap, biz1, biz2, ecomm1 etc.)
 
 eg: 
-<code>script config biz1 mydomain.cfg</code> (This will make a site based on biz1)
+<code>rockstart config biz1 mydomain.cfg</code> (This will make a site based on biz1)
 
 Defaults adds a default template and make everything work.
 
